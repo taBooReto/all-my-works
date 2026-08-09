@@ -1,7 +1,7 @@
 # All My Works
 
 ## My Itch.io
-[https://tabooret.itch.io/]
+https://tabooret.itch.io/
 
 ---
 
