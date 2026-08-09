@@ -29,6 +29,7 @@ https://tabooret.itch.io
 </p>
 
 <img src="https://github.com/user-attachments/assets/1434f0fc-430e-46cd-bab4-2e3a0e1a78fc" width="50%" />
+It's also 3D, like "Dead Cells"
 
 <img src="https://github.com/user-attachments/assets/9bf5806f-5aca-4f59-8f91-30d969d263d0" width="50%" />
 yes, it's an animatronic in Ukrainian shorts
