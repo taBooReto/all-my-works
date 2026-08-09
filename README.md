@@ -1,7 +1,7 @@
 # All My Works
 
 ## My Itch.io
-[Itch.io Dashboard]([https://itch.io/dashboard](https://tabooret.itch.io/)
+[https://tabooret.itch.io/]
 
 ---
 
