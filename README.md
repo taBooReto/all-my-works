@@ -16,7 +16,7 @@ https://tabooret.itch.io
 ## Blender Works
 <p>
   <img width="651" height="739" alt="image" src="https://github.com/user-attachments/assets/d30de94a-3bbf-4229-b558-619ecd0760f3" />
-  <img src="URL_2" width="48%">
+  <img width="847" height="746" alt="image" src="https://github.com/user-attachments/assets/31496b4e-5d18-4db9-870f-50aad3bea05b" />
 </p>
 
 ![Blender Render 1](https://github.com/user-attachments/assets/40d6b82e-716a-4f94-92ea-25ad3968b0f4)
