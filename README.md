@@ -19,7 +19,7 @@ https://tabooret.itch.io
   <img src="https://github.com/user-attachments/assets/31496b4e-5d18-4db9-870f-50aad3bea05b" width="49%" />
 </p>
 
-![Blender Render 1](https://github.com/user-attachments/assets/40d6b82e-716a-4f94-92ea-25ad3968b0f4 width="49%")
+![Blender Render 1](https://github.com/user-attachments/assets/40d6b82e-716a-4f94-92ea-25ad3968b0f4)
 
 ![Unity Render](https://github.com/user-attachments/assets/2e85c52e-2534-43d2-a6f5-2e1039ec9689)
 
