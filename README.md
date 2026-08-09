@@ -24,7 +24,7 @@ https://tabooret.itch.io
 <img src="https://github.com/user-attachments/assets/2e85c52e-2534-43d2-a6f5-2e1039ec9689" width="50%" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/519b3d92-02f8-4e03-9ef9-b066b248c68e" width="50%" />
+  <img src="https://github.com/user-attachments/assets/519b3d92-02f8-4e03-9ef9-b066b248c68e" width="48%" />
   <img src="https://github.com/user-attachments/assets/7209c129-8535-4635-a65f-aee3628f48f0" width="48%" />
 </p>
 
