@@ -16,10 +16,10 @@ https://tabooret.itch.io
 
 ## Blender Works
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/212d8fc2-14db-4fe1-a777-5bea56569546" width="32%" />
-  <img src="https://github.com/user-attachments/assets/dd49f86d-3aeb-4da9-9f92-bf4615c8aa37" width="32%" />
-  <img src="https://github.com/user-attachments/assets/c38553ea-109d-44bf-a16c-de2ca8c5a8e6" width="32%" />
+  <img src="https://github.com/user-attachments/assets/212d8fc2-14db-4fe1-a777-5bea56569546" width="49%" />
+  <img src="https://github.com/user-attachments/assets/dd49f86d-3aeb-4da9-9f92-bf4615c8aa37" width="49%" />
 </p>
+<img src="https://github.com/user-attachments/assets/c38553ea-109d-44bf-a16c-de2ca8c5a8e6" width="49%" />
 
 <p>
   <img src="https://github.com/user-attachments/assets/d30de94a-3bbf-4229-b558-619ecd0760f3" width="49%" />
