@@ -1,16 +1,14 @@
 # All My Works
 
 ## My Itch.io
-!!→ https://tabooret.itch.io ←!!
+!!→→ https://tabooret.itch.io ←←!!
 
 ---
-↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  
 ## Repositories
 - [Scalar Map, Layer Composition](https://github.com/taBooReto/Scalar-Map-Layer-Composition.git)
 - [Roguelike 3D Location Generator](https://github.com/Lev-Petrov/Rooglike_3D_LocationGenerator)
 - [Deeper](https://github.com/Lev-Petrov/deeper)
 - [Bossfish-Demo](https://github.com/Lev-Petrov/bossfish) ⚠ spaghetti code
-↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  
 ---
 
 
